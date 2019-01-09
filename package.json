@@ -1,0 +1,23 @@
+{
+  "name": "hyper-miami-dark",
+  "version": "0.0.2",
+  "description": "Hyper theme based on Flat-Remix-Miami-Dark and adapta-gtk-miami-theme",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thedjdoorn/hyper-miami-dark.git"
+  },
+  "keywords": [
+    "hyper",
+    "miami",
+    "theme",
+    "flat-remix",
+    "hyper",
+    "hyper-theme",
+    "terminal",
+    "term",
+    "hyperterm"
+  ],
+  "author": "David Doorn",
+  "license": "MPL-2"
+}
